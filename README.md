@@ -1,6 +1,6 @@
-# AIMS: Artificial Intelligence Gesture Controlled System 🖐️🤖
+# AIGCS: Artificial Intelligence Gesture Controlled System 🖐️🤖
 
-**AIMS (Gesture-Controlled System Commands Software)** is a state-of-the-art desktop automation platform that leverages Artificial Neural Networks (ANN) to translate hand gestures into powerful system actions. Built for speed, precision, and ease of use, AIMS allows you to control your entire computer without touching a mouse or keyboard.
+**AIGCS (Gesture-Controlled System Commands Software)** is a state-of-the-art desktop automation platform that leverages Artificial Neural Networks (ANN) to translate hand gestures into powerful system actions. Built for speed, precision, and ease of use, AIGCS allows you to control your entire computer without touching a mouse or keyboard.
 
 ---
 
@@ -8,7 +8,7 @@
 
 - **🧠 ANN-Powered Recognition**: Uses a Multi-Layer Perceptron (MLP) Artificial Neural Network for robust, high-accuracy gesture classification.
 - **🖐️ Hand-Agnostic (Mirror Invariant)**: Record a gesture with your left hand, and it works instantly with your right! (Powered by automated data augmentation).
-- **⚡ Ultra-Low Latency**: Optimized video pipeline using background threading, AI-throttling, and hardware buffer tuning for near-zero lag.
+- **⚡ Low Latency**: Optimized video pipeline using background threading, AI-throttling, and hardware buffer tuning for near-zero lag.
 - **📸 Custom Actions**:
   - **Multimedia**: Play/Pause, Next/Prev Track, Volume Control.
   - **System**: State-aware Mute/Unmute (Windows), Screenshot capture.
