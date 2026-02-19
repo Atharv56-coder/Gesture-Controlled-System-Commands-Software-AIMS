@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+mediapipe
+opencv-python
+scikit-learn
+pyautogui
+websockets
+python-multipart
+Pillow
