@@ -1,4 +1,4 @@
-# AIMS: Artificial Intelligence Mirroring System 🖐️🤖
+# AIMS: Artificial Intelligence Gesture Controlled System 🖐️🤖
 
 **AIMS (Gesture-Controlled System Commands Software)** is a state-of-the-art desktop automation platform that leverages Artificial Neural Networks (ANN) to translate hand gestures into powerful system actions. Built for speed, precision, and ease of use, AIMS allows you to control your entire computer without touching a mouse or keyboard.
 
@@ -116,8 +116,5 @@ AIMS/
 6. Switch to the **Dashboard** and test it out!
 
 ---
-
-## 🛡️ License
-Distributed under the MIT License. See `LICENSE` for more information.
 
 Developed by [Atharv56-coder](https://github.com/Atharv56-coder)
